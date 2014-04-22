@@ -7,7 +7,7 @@ Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-TrackDuck covers all your feedback needs: from mock-ups to a live website.
+TrackDuck covers all your feedback needs: from mockups to a live website.
 
 == Description ==
 
