@@ -38,6 +38,9 @@ Adopt TrackDuck to your needs - choose to track and manage via email, TrackDuck 
 
 
 == Screenshots ==
+1. Every issue is marked directly in the website, comes with comment, priority, etc...
+2. Get Quality Feedback from Clients and Colleagues
+3. Manage Feedback the Way You Want It
 
 
 == Changelog ==
