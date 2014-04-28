@@ -80,7 +80,7 @@ TrackDuck.getSettings = function (my_href,redirect){
             jQuery(\'.textapi_text\').after(
               \''.sprintf(
                 '<a href="%1$s" target="_blank" id="trackduck_enable" class="button button-primary">'.__('Enable integration','trackduck').'</a>',
-                'https://app.trackduck.com/#/project/new/step1?url=\'+encodeURIComponent(my_href)+\''
+                'https://app.trackduck.com/#/project/new/step1?utm_source=plugin&utm_medium=wp&utm_content=en&utm_campaign=wp-hosted-plugin&url=\'+encodeURIComponent(my_href)+\''
               ).'\'
             );
             jQuery(document).on(\'click\', "#trackduck_enable",function(e){
@@ -97,9 +97,9 @@ TrackDuck.getSettings = function (my_href,redirect){
           jQuery(\'.textapi_text\').after(
            	\''.sprintf(
            		'<p><a href="%2$s" class="button" id="trackduck_google">'.__('Google signup','trackduck').'</a> <a href="%3$s" class="button" id="trackduck_facebook">'.__('Login with Facebook','trackduck').'</a></p><p><a href="%1$s">'.__('Login or register with email','trackduck').'</a></p>',
-           		'https://app.trackduck.com/auth/login?redirect='.admin_url( "admin.php?page=trackduck_options" ),
-           		'https://app.trackduck.com/auth/google?redirect='.admin_url( "admin.php?page=trackduck_options" ),
-           		'https://app.trackduck.com/auth/Facebook?redirect='.admin_url( "admin.php?page=trackduck_options" )
+           		'https://app.trackduck.com/auth/login?utm_source=plugin&utm_medium=wp&utm_content=en&utm_campaign=wp-hosted-plugin&redirect='.admin_url( "admin.php?page=trackduck_options" ),
+           		'https://app.trackduck.com/auth/google?utm_source=plugin&utm_medium=wp&utm_content=en&utm_campaign=wp-hosted-plugin&redirect='.admin_url( "admin.php?page=trackduck_options" ),
+           		'https://app.trackduck.com/auth/Facebook?utm_source=plugin&utm_medium=wp&utm_content=en&utm_campaign=wp-hosted-plugin&redirect='.admin_url( "admin.php?page=trackduck_options" )
            	).'\'
           );
        } else {
@@ -124,7 +124,7 @@ jQuery(document).ready(function(){
             jQuery(\'.textapi_text\').after(
               \''.sprintf(
                 '<a href="%1$s" target="_blank" id="trackduck_enable" class="button button-primary">'.__('Enable integration','trackduck').'</a>',
-                'https://app.trackduck.com/#/project/new/step1?url=\'+encodeURIComponent(my_href)+\''
+                'https://app.trackduck.com/#/project/new/step1?utm_source=plugin&utm_medium=wp&utm_content=en&utm_campaign=wp-hosted-plugin&url=\'+encodeURIComponent(my_href)+\''
               ).'\'
             );
             jQuery(document).on(\'click\', "#trackduck_enable",function(e){
@@ -141,7 +141,7 @@ jQuery(document).ready(function(){
     console.log(jQuery(\'#trackduck_options_trackduck_id\').val());
            jQuery(\'.textapi_text\').after(
             \'<button id="trackduck_disable" type="submit" class="button button-primary">'.__('Disable integration','trackduck').'</button> \'+
-            \'<a href="https://app.trackduck.com/#/project/\'+jQuery(\'#trackduck_options_trackduck_id\').val()+\'/settings" target="_blank" class="button button-primary">'.__('Open project settings','trackduck').'</a>\'
+            \'<a href="https://app.trackduck.com/#/project/\'+jQuery(\'#trackduck_options_trackduck_id\').val()+\'/settings?utm_source=plugin&utm_medium=wp&utm_content=en&utm_campaign=wp-hosted-plugin" target="_blank" class="button button-primary">'.__('Open project settings','trackduck').'</a>\'
            );
            jQuery(\'#trackduck_disable\').click(function(){
 //             jQuery(\'#trackduck_options_trackduck_id\').val(\'\');
