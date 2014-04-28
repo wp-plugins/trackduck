@@ -170,7 +170,7 @@ jQuery(document).ready(function(){
               'type'        => 'extension',
               'description' => ' ',
               'options'     => array(
-                'text'        => __('Install extension for Google Chrome and enhance screenshot capturing.','trackduck'),
+                'text'        => __('Install extension for your browser and enhance screenshot capturing.','trackduck'),
                 'script'      => '
 jQuery(\'.form-table\').first().next().hide().next().hide();
 jQuery(document).ready(function(){
