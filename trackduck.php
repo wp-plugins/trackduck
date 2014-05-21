@@ -3,7 +3,7 @@
 Plugin Name: TrackDuck
 Plugin URI: https://trackduck.com/
 Description: Visual feedback for web-development
-Version: 0.1.1
+Version: 0.1.1.1
 Author: TrackDuck & Arūnas Liuiza
 Author URI: https://trackduck.com/
 */
