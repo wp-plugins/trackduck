@@ -27,7 +27,7 @@ class TrackDuck_Options_Data {
 							'description' => ' ',
 							'options'			=> array(
                 'text'        => sprintf(
-                  __('TrackDuck - visual feedback and bug tracking solution for web design and development. This plugin enables you and your clients to add comments with screenshots directly from your WordPress website. Receive detailed visual feedback from your customers and error reports from users in seconds! Learn more on <a href=\"%1$s\" target="_blank" >TrackDuck website</a>.','trackduck'),
+                  __('TrackDuck - visual feedback and bug tracking solution for web design and development. This plugin enables you and your clients to add comments with screenshots directly from your WordPress website. Receive detailed visual feedback from your customers and error reports from users in seconds! Learn more on <a href="$s" target="_blank" >TrackDuck website</a>.','trackduck'),
                   'http://trackduck.com'
                 ),
 								'button'			=> __('Get Project ID','trackduck'),
