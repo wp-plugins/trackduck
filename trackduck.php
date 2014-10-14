@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: TrackDuck
+Plugin Name: TrackDuck Visual Feedback
 Plugin URI: https://trackduck.com/
 Description: Visual feedback for web-development
 Version: 0.1.1.2
