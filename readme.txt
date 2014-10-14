@@ -2,16 +2,14 @@
 Contributors: ideag
 Tags: trackduck, feedback, bug-tracking, ux, ui, testing, user interface, development, reporting
 Requires at least: 3.0.1
-Tested up to: 3.8.1
-Stable tag: 0.1.0
+Tested up to: 4.0.0
+Stable tag: 0.1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 TrackDuck covers all your feedback needs: from mockups to a live website.
 
 == Description ==
-
-VISUAL FEEDBACK FOR WEB DEVELOPMENT AND UI
 
 TrackDuck covers all your feedback needs - from concept to a launched website. Start by getting feedback on mockups, then in development phase and finally make every visitor in launched website part of your QA team!
 
@@ -45,10 +43,13 @@ Adopt TrackDuck to your needs - choose to track and manage via email, TrackDuck 
 
 == Changelog ==
 
-= 0.1.0 =
+= 0.1.1.1 =
 * initial release
+
+= 0.1.1.2 =
+* WP 4 support added
+* Bug fixes
 
 == Upgrade Notice ==
 
-= 0.1.0 =
 -
