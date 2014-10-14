@@ -1,4 +1,4 @@
-=== TrackDuck ===
+=== TrackDuck  ===
 Contributors: ideag
 Tags: trackduck, feedback, bug-tracking, ux, ui, testing, user interface, development, reporting
 Requires at least: 3.0.1
