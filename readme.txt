@@ -50,6 +50,9 @@ Adopt TrackDuck to your needs - choose to track and manage via email, TrackDuck 
 * WP 4 support added
 * Bug fixes
 
+= 0.1.1.3 =
+* Update CDN
+
 == Upgrade Notice ==
 
 -
