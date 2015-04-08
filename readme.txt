@@ -26,7 +26,8 @@ Click on the area in the website and add a comment - that’s it! After launch y
 
 Adopt TrackDuck to your needs - choose to track and manage via email, TrackDuck interface or integrate with your organization’s tools - PM, CRM, client support solutions.
 
-Instructions: http://help.trackduck.com/2014/12/wordpress-integration-setup/
+[Installation instructions](http://help.trackduck.com/2014/12/wordpress-integration-setup/) and [Plugin support](https://trackduck.com/en/content/contact-us-1/)
+
 
 == Installation ==
 
@@ -35,15 +36,18 @@ Instructions: http://help.trackduck.com/2014/12/wordpress-integration-setup/
 3. Go to WordPress settings and select TrackDuck
 4. Hit Enable button and follow the directions
 
-More details available in our helpdesk: http://help.trackduck.com/2014/12/wordpress-integration-setup/
+[More details available in our helpdesk](http://help.trackduck.com/2014/12/wordpress-integration-setup/) and [Plugin support](https://trackduck.com/en/content/contact-us-1/)
+
 
 == Frequently Asked Questions ==
 
 = Plugin doesn't work after installation. Please help! =
 
 1. Make sure, that you activate TrackDuck plugin in wordpess plugins list
-2. Make sure, that you enable plugin in TrackDuck plugin settings ( wordpess settings -> TrackDuck )
-3. Make sure that your url added in you TrackDuck project settings at https://app.trackduck.com
+2. Make sure, that you enable plugin in TrackDuck plugin settings ( Settings / TrackDuck )
+3. Make sure that your url added in you [TrackDuck project settings](https://app.trackduck.com)
+
+[More details available in our helpdesk](http://help.trackduck.com/2014/12/wordpress-integration-setup/) and [Plugin support](https://trackduck.com/en/content/contact-us-1/)
 
 == Screenshots ==
 
