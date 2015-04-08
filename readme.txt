@@ -3,7 +3,7 @@ Contributors: TrackDuck, ideag
 Tags: trackduck, feedback, bug-tracking, ux, ui, testing, user interface, development, reporting, screenshot
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 0.1.1.2
+Stable tag: 0.1.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,6 +67,9 @@ Adopt TrackDuck to your needs - choose to track and manage via email, TrackDuck 
 
 = 0.1.1.3 =
 * Update CDN
+
+= 0.1.1.4 =
+* Settings improvements
 
 == Upgrade Notice ==
 
