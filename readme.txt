@@ -2,7 +2,7 @@
 Contributors: ideag
 Tags: trackduck, feedback, bug-tracking, ux, ui, testing, user interface, development, reporting
 Requires at least: 3.0.1
-Tested up to: 4.0.0
+Tested up to: 4.1.1
 Stable tag: 0.1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -41,9 +41,9 @@ More details available in our helpdesk: http://help.trackduck.com/2014/12/wordpr
 
 = Plugin doesn't work after installation. Please help! =
 
-1. make sure, that you activate TrackDuck plugin in wordpess plugins list
-2. make sure, that you enable plugin in TrackDuck plugin settings ( wordpess settings -> TrackDuck )
-3. make sure that your url added in you TrackDuck project settings at https://app.trackduck.com
+1. Make sure, that you activate TrackDuck plugin in wordpess plugins list
+2. Make sure, that you enable plugin in TrackDuck plugin settings ( wordpess settings -> TrackDuck )
+3. Make sure that your url added in you TrackDuck project settings at https://app.trackduck.com
 
 == Screenshots ==
 
