@@ -36,7 +36,7 @@ OR
 Download **TrackDuck** plugin and upload to the /wp-content/plugins/ directory,
 2. Activate TrackDuck plugin through the 'Plugins' menu in WordPress
 3. Go to WordPress 'Settings' and select TrackDuck
-4. Hit 'Enable' button and then to to your TrackDuck project dashboard for more settings.
+4. Hit 'Enable integration' button and then go to your TrackDuck project dashboard for more settings.
 
 [More details available in our helpdesk](http://help.trackduck.com/2014/12/wordpress-integration-setup/) and [Plugin support](https://trackduck.com/en/content/contact-us-1/)
 
