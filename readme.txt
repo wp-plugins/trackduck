@@ -1,6 +1,6 @@
 === TrackDuck Visual Feedback with Screenshots ===
-Contributors: ideag, TrackDuck
-Tags: trackduck, feedback, bug-tracking, ux, ui, testing, user interface, development, reporting
+Contributors: TrackDuck, ideag
+Tags: trackduck, feedback, bug-tracking, ux, ui, testing, user interface, development, reporting, screenshot
 Requires at least: 3.0.1
 Tested up to: 4.1.1
 Stable tag: 0.1.1.2
