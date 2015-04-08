@@ -2,7 +2,7 @@
 /*
 Plugin Name: TrackDuck Visual Feedback
 Plugin URI: https://trackduck.com/
-Description: Visual feedback for web-development
+Description: Visual feedback for web-development. <a href="options-general.php?page=trackduck_options">Enable integration in TrackDuck plugin settings</a> or <a href="https://trackduck.com/en/content/contact-us-1/">Write to support</a>
 Version: 0.1.1.3
 Author: TrackDuck & Arūnas Liuiza
 Author URI: https://trackduck.com/
