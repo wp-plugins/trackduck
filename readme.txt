@@ -39,12 +39,14 @@ More details available in our helpdesk: http://help.trackduck.com/2014/12/wordpr
 
 == Frequently Asked Questions ==
 
-Plugin doesn't work after installation.
+= Plugin doesn't work after installation. Please help! =
+
 1. make sure, that you activate TrackDuck plugin in wordpess plugins list
 2. make sure, that you enable plugin in TrackDuck plugin settings ( wordpess settings -> TrackDuck )
 3. make sure that your url added in you TrackDuck project settings at https://app.trackduck.com
 
 == Screenshots ==
+
 1. Every issue is marked directly in the website, comes with comment, priority, etc...
 2. Get Quality Feedback from Clients and Colleagues
 3. Manage Feedback the Way You Want It
