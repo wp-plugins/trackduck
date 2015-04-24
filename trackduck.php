@@ -3,7 +3,7 @@
 Plugin Name: TrackDuck Visual Feedback
 Plugin URI: https://trackduck.com/
 Description: Visual feedback for web-development. <a href="options-general.php?page=trackduck_options">Enable integration in TrackDuck plugin settings</a> or <a href="https://trackduck.com/en/content/contact-us-1/">contact us if you have any questions</a>
-Version: 0.1.1.4
+Version: 0.1.1.5
 Author: TrackDuck & Arūnas Liuiza
 Author URI: https://trackduck.com/
 */
@@ -18,7 +18,7 @@ add_action( 'admin_enqueue_scripts',  array( 'TrackDuck', 'admin_css' ));
 add_action( 'admin_enqueue_scripts',  array( 'TrackDuck', 'admin_script' ));
 
 class TrackDuck {
-  const VERSION = '0.1.1.4';
+  const VERSION = '0.1.1.5';
   protected static $active = false;
   protected static $options = array();
   protected static $includes_dir;
